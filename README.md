@@ -1,7 +1,11 @@
 dmc-sim
 =======
 
-ns-3 bindings to support simulation evaluations of distributed monotonic clocks (DMC)
+ns-3 bindings to support simulation evaluations of 
+Distributed Monotonic Clocks (DMC)
+
+For more information on Distributed Monotonic Clocks, you may want to watch
+[this talk](https://www.youtube.com/watch?v=YqNGbvFHoKM) from StrangeLoop 2015.
 
 Note: There is a lot of undocumented installation hoo-hah to get ns-3 to
 compile on the Ubuntu Vagrant box, mostly involves creating the VM with
